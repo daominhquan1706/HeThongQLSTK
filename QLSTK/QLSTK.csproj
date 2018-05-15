@@ -358,6 +358,7 @@
     <Content Include="Content\plugins\bootstrap\css\bootstrap.min.css.map" />
     <Content Include="Areas\Employee\Views\ChatBoxes\Chat.cshtml" />
     <Content Include="Areas\Employee\Views\ChatBoxes\chonkhach.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2-vsdoc.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
